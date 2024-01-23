@@ -1,1 +1,2 @@
 # frontend-iii-tund
+Terminalis tegin vaid kausta, githubi käsud - ma kuulasin eelmises tunnis toimuvat, seega selles ma juba teadsin mida teha- new ja siis tegin repo. ma sain aru mida teha aga mul läks liiga kaua aega, et see mu ajju kohale jõuaks. Väsimusest vist.
